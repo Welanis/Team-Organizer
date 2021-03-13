@@ -1,0 +1,27 @@
+body {
+	background-color: #ffffff;
+}
+
+
+table.task-view {
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	border-collapse: collapse;
+	padding: 2px;
+}
+
+tr.task-view-row {
+	border: inherit;
+}
+
+td.task-view-data {
+	border-top: 2px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+th.task-view-header {
+	padding: 5px;
+	align-content: center;
+	color: #c80731;
+}

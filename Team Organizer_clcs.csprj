@@ -1,0 +1,173 @@
+
+<codestructure version="1.7.1">
+<phptree>
+<treenode node=".\load.php;PHP:PHP Include;C:\xampp\htdocs\to\index.php;f14;2;24;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ROOT;PHP:PHP Word;C:\xampp\htdocs\to\index.php;f8;1;12;1;;;;vpos;;v;;a;;r$_SERVER[&apos;DOCUMENT_ROOT&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./load.php;PHP:PHP Include;C:\xampp\htdocs\to\task.php;f14;2;24;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node=".\load.php;PHP:PHP Include;C:\xampp\htdocs\to\test.php;f9;1;19;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="config.php;PHP:PHP Include;C:\xampp\htdocs\to\load.php;f14;5;24;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="func/core.php;PHP:PHP Include;C:\xampp\htdocs\to\load.php;f14;4;27;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="func/display.php;PHP:PHP Include;C:\xampp\htdocs\to\load.php;f14;7;30;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="func/project.php;PHP:PHP Include;C:\xampp\htdocs\to\load.php;f14;6;30;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="func/projectView.php;PHP:PHP Include;C:\xampp\htdocs\to\load.php;f14;9;34;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="func/user.php;PHP:PHP Include;C:\xampp\htdocs\to\load.php;f14;8;27;8;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Form;PHP:Class Name;C:\xampp\htdocs\to\func\display.php;f0;94;1;159;;;;vpos;;v;;a;;r;;d11,94;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;102;2;110;;;;vpos;;v;;a;;r;;d76,102;;b1,0;;m0;;emethod;;paction;;pclass;;p;;x;;x;;x">
+</treenode>
+<treenode node="addField;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;112;2;114;;;;vpos;;v;;a;;r;;d62,112;;b1,0;;m0;;ename;;ptype;;pvalue;;p;;x;;x;;x">
+</treenode>
+<treenode node="close_form;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;154;2;156;;;;vpos;;v;;a;;r;;d30,154;;b1,0;;m0;;e">
+</treenode>
+<treenode node="createSubmit;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;116;2;123;;;;vpos;;v;;a;;r;;d51,116;;b1,0;;m0;;evalue;;pclass;;p;;x;;x">
+</treenode>
+<treenode node="fetch_fields;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;145;2;147;;;;vpos;;v;;a;;r;;d32,145;;b1,0;;m0;;e">
+</treenode>
+<treenode node="fetch_header;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;141;2;143;;;;vpos;;v;;a;;r;;d32,141;;b1,0;;m0;;e">
+</treenode>
+<treenode node="generateForm;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;125;2;135;;;;vpos;;v;;a;;r;;d32,125;;b1,0;;m0;;e">
+</treenode>
+<treenode node="output;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;137;2;139;;;;vpos;;v;;a;;r;;d26,137;;b1,0;;m0;;e">
+</treenode>
+<treenode node="submitButton;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;149;2;152;;;;vpos;;v;;a;;r;;d32,149;;b1,0;;m0;;e">
+</treenode>
+<treenode node="$endzone;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;99;24;99;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$headerBuffer;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;97;29;97;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$inputFields;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;100;28;100;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$outputBuffer;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;96;29;96;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$submitButton;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;98;29;98;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Project;PHP:Class Name;C:\xampp\htdocs\to\func\project.php;f0;11;1;123;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    class Project&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Class that handles everything that has to do with a project.&#10;Viewing, editing, adding, deleting projects.;;d14,11;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;18;2;34;;;;vpos;;v;;a;;r;;d45,18;;b1,0;;m0;;eprojectID;;p;;x">
+</treenode>
+<treenode node="created;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;91;2;93;;;;vpos;;v;;a;;r;;d27,91;;b1,0;;m0;;e">
+</treenode>
+<treenode node="creator;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;96;2;98;;;;vpos;;v;;a;;r;;d27,96;;b1,0;;m0;;e">
+</treenode>
+<treenode node="description;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;87;2;89;;;;vpos;;v;;a;;r;;d31,87;;b1,0;;m0;;e">
+</treenode>
+<treenode node="dumpProject;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;120;2;122;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    dumpProject()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Debugging functions. Dumps the self::$project array.&#10;Set private once done!;;d31,120;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getNumTask;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f11;42;2;51;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getNumTask()&#10;&#10;&#10;&lt;b&gt;Return:&lt;/b&gt;&#10;   returns number of tasks in the current project instance;;d33,42;;b2,0;;m0;;e">
+</treenode>
+<treenode node="getTasks;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;61;2;77;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getTasks($order = &apos;*&apos;, $limit = 50, $offset = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    {object} $limit Sets upper limit to how many rows to show&#10;{object} $offset Offset to the limit to gather more tasks.&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    str &lt;b&gt;$order&lt;/b&gt;: Orders the columns, standard is *&#10;    &#10;    &#10;&#10;&lt;b&gt;Return:&lt;/b&gt;&#10;   returns all rows of tasks;;d66,61;;b1,0;;m0;;estr $order;;p;;p;;p;;x;;x;;x">
+</treenode>
+<treenode node="id;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;79;2;81;;;;vpos;;v;;a;;r;;d22,79;;b1,0;;m0;;e">
+</treenode>
+<treenode node="name;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;83;2;85;;;;vpos;;v;;a;;r;;d24,83;;b1,0;;m0;;e">
+</treenode>
+<treenode node="numTasks;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;100;2;102;;;;vpos;;v;;a;;r;;d28,100;;b1,0;;m0;;e">
+</treenode>
+<treenode node="updateName;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;104;2;112;;;;vpos;;v;;a;;r;;d42,104;;b1,0;;m0;;ename;;p;;x">
+</treenode>
+<treenode node="$core;PHP:Var Name;C:\xampp\htdocs\to\func\project.php;f18;15;23;15;;;;vpos;;v;;a;;r;;d-1,-1;;b2,5;;m0;;e">
+</treenode>
+<treenode node="$numTasks;PHP:Var Name;C:\xampp\htdocs\to\func\project.php;f18;16;27;16;;;;vpos;;v;;a;;r;;d-1,-1;;b2,5;;m0;;e">
+</treenode>
+<treenode node="$project;PHP:Var Name;C:\xampp\htdocs\to\func\project.php;f18;13;26;13;;;;vpos;;v;;a;;r;;d-1,-1;;b2,5;;m0;;e">
+</treenode>
+<treenode node="$tasks;PHP:Var Name;C:\xampp\htdocs\to\func\project.php;f18;14;24;14;;;;vpos;;v;;a;;r;;d-1,-1;;b2,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ProjectView;PHP:Class Name;C:\xampp\htdocs\to\fuse.php;f0;3;1;17;;C:\xampp\htdocs\to\func\projectView.php;f0;5;1;48;;;;vpos;;v;;aProject;;c;;r;;d34,5;;b0,0;;m0;;e">
+<treenode node="preworkTasks;PHP:Function Name;C:\xampp\htdocs\to\fuse.php;f8;5;2;16;;C:\xampp\htdocs\to\func\projectView.php;f8;9;2;19;;;;vpos;;v;;a;;r;;d38,9;;b1,0;;m0;;etasks;;p;;x">
+</treenode>
+<treenode node="status;PHP:Function Name;C:\xampp\htdocs\to\func\projectView.php;f9;36;2;43;;;;vpos;;v;;a;;r;;d31,36;;b3,0;;m0;;eint;;p;;x">
+</treenode>
+<treenode node="test;PHP:Function Name;C:\xampp\htdocs\to\func\projectView.php;f8;45;2;47;;;;vpos;;v;;a;;r;;d24,45;;b1,0;;m0;;e">
+</treenode>
+<treenode node="username;PHP:Function Name;C:\xampp\htdocs\to\func\projectView.php;f9;21;2;34;;;;vpos;;v;;a;;r;;d32,21;;b3,0;;m0;;eid;;p;;x">
+</treenode>
+<treenode node="$userbuff;PHP:Var Name;C:\xampp\htdocs\to\func\projectView.php;f16;7;25;7;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Table;PHP:Class Name;C:\xampp\htdocs\to\func\display.php;f0;4;1;91;;;;vpos;;v;;a;;r;;d12,4;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;20;2;48;;;;vpos;;v;;anull;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($header, $class = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets up the table with header.&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$header&lt;/b&gt;: How many headers are needed in the;;d53,20;;b1,0;;m0;;eheader;;pclass;;p;;x;;x">
+</treenode>
+<treenode node="input;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;55;2;84;;;;vposarray;;v;;a;;r;;d1,56;;b1,0;;m0;;edata;;p;;x">
+</treenode>
+<treenode node="output;PHP:Function Name;C:\xampp\htdocs\to\func\display.php;f8;86;2;90;;;;vpos;;v;;a;;r;;d1,87;;b1,0;;m0;;e">
+</treenode>
+<treenode node="$class;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;7;22;7;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$dataClass;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;9;26;9;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$outputBuffer;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;10;29;10;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$outputEnd;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;11;26;11;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$rowClass;PHP:Var Name;C:\xampp\htdocs\to\func\display.php;f16;8;25;8;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Task;PHP:Class Name;C:\xampp\htdocs\to\func\project.php;f0;128;1;193;;;;vpos;;v;;aProject;;c;;r;;d27,128;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;133;2;163;;;;vpos;;v;;a;;r;;d56,133;;b1,0;;m0;;etaskID;;porder;;p;;x;;x">
+</treenode>
+<treenode node="deadline;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;189;2;191;;;;vpos;;v;;a;;r;;d28,189;;b1,0;;m0;;e">
+</treenode>
+<treenode node="get_public_data;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;165;2;167;;;;vpos;;v;;a;;r;;d35,165;;b1,0;;m0;;e">
+</treenode>
+<treenode node="owner;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;185;2;187;;;;vpos;;v;;a;;r;;d25,185;;b1,0;;m0;;e">
+</treenode>
+<treenode node="status;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;181;2;183;;;;vpos;;v;;a;;r;;d26,181;;b1,0;;m0;;e">
+</treenode>
+<treenode node="taskDescription;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;177;2;179;;;;vpos;;v;;a;;r;;d42,177;;b1,0;;m0;;eTaskID;;p;;x">
+</treenode>
+<treenode node="taskId;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;169;2;171;;;;vpos;;v;;a;;r;;d26,169;;b1,0;;m0;;e">
+</treenode>
+<treenode node="taskName;PHP:Function Name;C:\xampp\htdocs\to\func\project.php;f8;173;2;175;;;;vpos;;v;;a;;r;;d28,173;;b1,0;;m0;;e">
+</treenode>
+<treenode node="$id;PHP:Var Name;C:\xampp\htdocs\to\func\project.php;f16;130;19;130;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$task;PHP:Var Name;C:\xampp\htdocs\to\func\project.php;f16;131;21;131;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="config;PHP:Class Name;C:\xampp\htdocs\to\func\core.php;f0;4;1;28;;;;vpos;;v;;a;;r;;d13,4;;b0,0;;m0;;e">
+<treenode node="read;PHP:Function Name;C:\xampp\htdocs\to\func\core.php;f15;20;2;26;;;;vpos;;v;;a;;r;;d1,21;;b1,5;;m0;;ename;;p;;x">
+</treenode>
+<treenode node="write;PHP:Function Name;C:\xampp\htdocs\to\func\core.php;f15;8;2;18;;;;vpos;;v;;a;;r;;d45,8;;b1,5;;m0;;ename;;pvalue;;p;;x;;x">
+</treenode>
+<treenode node="$confarray;PHP:Var Name;C:\xampp\htdocs\to\func\core.php;f8;6;18;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="core;PHP:Class Name;C:\xampp\htdocs\to\func\core.php;f0;30;1;61;;;;vpos;;v;;a;;r;;d0,31;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\to\func\core.php;f9;35;2;47;;;;vpos;;v;;a;;r;;d1,36;;b3,0;;m0;;e">
+</treenode>
+<treenode node="getInstance;PHP:Function Name;C:\xampp\htdocs\to\func\core.php;f15;49;2;56;;;;vpos;;v;;a;;r;;d1,50;;b1,5;;m0;;e">
+</treenode>
+<treenode node="$dbh;PHP:Var Name;C:\xampp\htdocs\to\func\core.php;f8;32;12;32;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+<treenode node="$instance;PHP:Var Name;C:\xampp\htdocs\to\func\core.php;f16;33;25;33;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="loader;PHP:Class Name;C:\xampp\htdocs\to\load.php;f0;13;1;24;;;;vpos;;v;;a;;r;;d13,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\to\load.php;f8;15;2;22;;;;vpos;;v;;a;;r;;d31,15;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="user;PHP:Class Name;C:\xampp\htdocs\to\func\user.php;f0;5;1;29;;;;vpos;;v;;a;;r;;d11,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\to\func\user.php;f8;10;2;21;;;;vpos;;v;;a;;r;;d1,11;;b1,0;;m0;;eid;;p;;x">
+</treenode>
+<treenode node="getUsername;PHP:Function Name;C:\xampp\htdocs\to\func\user.php;f8;23;2;26;;;;vpos;;v;;a;;r;;d1,24;;b1,0;;m0;;e">
+</treenode>
+<treenode node="$core;PHP:Var Name;C:\xampp\htdocs\to\func\user.php;f16;7;21;7;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+<treenode node="$user;PHP:Var Name;C:\xampp\htdocs\to\func\user.php;f16;8;21;8;;;;vpos;;v;;a;;r;;d-1,-1;;b3,5;;m0;;e">
+</treenode>
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+</codestructure>

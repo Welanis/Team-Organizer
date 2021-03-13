@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\to\Team Organizer.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/to]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/to]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\to\index.php"/>
+  <file name="C:\xampp\htdocs\to\func\test.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\to\modules\taskedit.php" crc="1602950336983"/>
+  <file name="C:\xampp\htdocs\to\modules\index.php" crc="1602950322331"/>
+  <file name="C:\xampp\htdocs\to\func\user.php" crc="1602950368200"/>
+  <file name="C:\xampp\htdocs\to\func\test.php" crc="1605801438908"/>
+  <file name="C:\xampp\htdocs\to\func\projectView.php" crc="1602950369253"/>
+  <file name="C:\xampp\htdocs\to\func\project.php" crc="1602950358891"/>
+  <file name="C:\xampp\htdocs\to\func\display.php" crc="1602950497159"/>
+  <file name="C:\xampp\htdocs\to\func\core.php" crc="1602950346828"/>
+  <file name="C:\xampp\htdocs\to\test.php" crc="1602019422833"/>
+  <file name="C:\xampp\htdocs\to\task.php" crc="1602015796255"/>
+  <file name="C:\xampp\htdocs\to\style.css" crc="1602012281429"/>
+  <file name="C:\xampp\htdocs\to\load.php" crc="1602950481375"/>
+  <file name="C:\xampp\htdocs\to\index.php" crc="1605794657370"/>
+  <file name="C:\xampp\htdocs\to\fuse.php" crc="1601983350170"/>
+  <file name="C:\xampp\htdocs\to\dok.txt" crc="1601983363121"/>
+  <file name="C:\xampp\htdocs\to\config.php" crc="1602018321317"/>
+ </filescache>
+</project>

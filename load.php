@@ -10,21 +10,4 @@ include_once("func/user.php");
 include_once('func/projectView.php');
 
 
-
-class loader {
-	
-	public function __construct() {
-		
-		
-		
-		return 1;
-		
-		
-	}
-	
-}
-
-
-
-
 ?>

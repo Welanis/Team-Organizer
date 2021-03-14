@@ -111,6 +111,8 @@ class Project {
 			self::$project['projectName'] = $name;
 		}
 	}
+
+
 	
 	/**
 	* Debugging functions. Dumps the self::$project array.

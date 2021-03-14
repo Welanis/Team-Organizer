@@ -1,0 +1,5 @@
+0 - Not started, red
+1 - In progress, yellow
+2 - Dependencies, dark red
+3 - Stuck, dark red
+4 - Done, green

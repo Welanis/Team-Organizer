@@ -110,7 +110,7 @@ class Form {
 		
 	}
 	
-	public function addField($name, $type="text", $value = null) {
+	public function addField($name, $type="text", $value = '') {
 		self::$inputFields[] = '<input type="' . $type . '" name="' . $name . '" value="' . $value . '" />';		
 	}
 	

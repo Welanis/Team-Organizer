@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\adm",
+    "\\adm\\mod",
     "\\func"
   ],
-  "SelectedNode": "\\db.mwb.bak",
+  "SelectedNode": "\\func\\project.php",
   "PreviewInSolutionExplorer": false
 }

@@ -37,7 +37,7 @@ class core
 	{
 		// building data source name from config
 		$dsn = 'mysql:host=' . config::read('db.host') .
-		';dbname='    . config::read('db.name') .
+		';dbname='    . config::read('db.name') . 
 		';connect_timeout=15';
 		// getting DB user from config
 		$user = config::read('db.user');
